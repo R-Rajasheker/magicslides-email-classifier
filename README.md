@@ -31,7 +31,7 @@ This project lets users log in via Google OAuth, fetch their latest emails from 
 
 ### 1. Clone the Repository
 
-git clone https://github.com/yourusername/magicslides-email-classifier.git
+git https://github.com/R-Rajasheker/magicslides-email-classifier.git
 cd magicslides-email-classifier
 
 text
